@@ -1,4 +1,4 @@
-<h1 align="center">Eai Gurizesss ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) , Eu sou Yuri Guimaraes (yurzinn)</h1>
+<h1 align="center">Eai Gurizesss, Eu sou Yuri Guimaraes (yurzinn)</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yuri_sguima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuri_sguima" height="30" width="40" /></a>
