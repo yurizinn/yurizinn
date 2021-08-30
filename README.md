@@ -4,7 +4,7 @@
 <a href="https://twitter.com/yuri_sguima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuri_sguima" height="30" width="40" /></a>
 <a href="https://fb.com/yuri.guima.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuri.guima.5" height="30" width="40" /></a>
 <a href="https://instagram.com/yuri_sguima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuri_sguima" height="30" width="40" /></a>
-<a href="https://discord.gg/yurizin#6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yurizin#6666" height="30" width="40" /></a>
+<a href="https://discord.gg/yurizin#6666" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="yurizin#6666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
