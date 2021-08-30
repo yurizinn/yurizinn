@@ -1,7 +1,7 @@
 <h1 align="center">Eai Gurizesss, Eu sou Yuri Guimaraes (yurzinn)</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yuri_sguima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuri_sguima" height="30" width="40" /></a>
+<a href="https://twitter.com/yuri_sguima" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="yuri_sguima" height="30" width="40" /></a>
 <a href="https://fb.com/yuri.guima.5" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="yuri.guima.5" height="30" width="40" /></a>
 <a href="https://instagram.com/yuri_sguima" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yuri_sguima" height="30" width="40" /></a>
 <a href="https://discord.gg/yurizin#6666" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="yurizin#6666" height="30" width="40" /></a>
